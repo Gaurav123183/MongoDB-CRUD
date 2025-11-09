@@ -1,0 +1,25 @@
+/* static/css/style.css */
+body {
+  background: #f8f9fa;
+  font-family: Inter, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+
+.card {
+  border: none;
+  border-radius: 12px;
+}
+
+.table thead.table-primary th {
+  color: #0f172a;
+  font-weight: 600;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+footer {
+  margin-top: 2rem;
+  padding-top: 1rem;
+}
